@@ -5,6 +5,12 @@ This is, pretty much, a copy and paste from [Kent Sommer's repo](https://github.
 
 (Thank you, Kent Sommer!)
 
+Tip: use python2. If you don't currently have python2, run this:
+```bash
+conda create -n py27 python=2.7 anaconda
+source activate py27
+```
+
 # VIN: [Value Iteration Networks](https://arxiv.org/abs/1602.02867)
 
 ## Installation
