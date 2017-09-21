@@ -71,13 +71,6 @@ To visualize the optimal and predicted paths simply pass:
 - `l_h`: Number of channels in first convolutional layer. Default: 150, described in paper.
 - `l_q`: Number of channels in q layer (~actions) in VI-module. Default: 10, described in paper.
 
-## Results
-Gridworld | Sample One | Sample Two
--- | --- | ---
-8x8 | <img src="results/8x8_1.png" width="450"> | <img src="results/8x8_2.png" width="450">
-16x16 | <img src="results/16x16_1.png" width="450"> | <img src="results/16x16_2.png" width="450">
-28x28 | <img src="results/28x28_1.png" width="450"> | <img src="results/28x28_2.png" width="450">
-
 ## Datasets
 Each data sample consists of an obstacle image and a goal image followed by the (x, y) coordinates of current state in the gridworld. 
 
