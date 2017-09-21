@@ -81,5 +81,5 @@ Test set | 13846 | 77203 | 251755
 
 The datasets (8x8, 16x16, and 28x28) included in this repository can be reproduced using the ```dataset/make_training_data.py``` script. Note that this script is not optimized and runs rather slowly (also uses a lot of memory :D)
 
-## HomeWork
+## Homework
 Train and evaluate the code in three new domains of the grid-world (three new -square- dimensions for the board) and plot the success rates as a function of the domain size.
